@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "English",
     "LANGCODE": "en",
-    "AUTHOR": "AsenaDev",
+    "AUTHOR": "Viz-Zer",
     "STRINGS": {
         "_asena": {
             "DESC": "To Manage Chat bot.\n.lydia in chat to activate whole group\nReply to a person or mention to activate that person.",
@@ -43,7 +43,7 @@
             "MUTE_DESC": "Mute the group chat. Only the admins can send a message.\n.mute : to mute forever\n.mute 10 : to mute 10 minute",
             "MUTED": "```Group chat muted!```",
             "TMUTE": "```Group Muted for ",
-            "UNMUTE_DESC": "Unmute the group chat. Anyone can send a message.\n.unmute : to unmute group.",
+            "UNMUTE_DESC": "Group opened inni arku venelum message ayyakam.\n.unmute : to unmute group.",
             "UNMUTED": "```The group chat has unmuted!```",
             "INVITE_DESC": "Provides the group's invitation link.\n.invite : to get new invite link of group",
             "INVITE": "https://chat.whatsapp.com/{}",
