@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "Single Bot",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "ʏᴏᴜʀ ɴᴀᴍᴇ ʜᴇʀᴇ,🐦 ʏᴏᴜʀ ᴛᴡɪᴛᴛᴇʀ ʜᴇʀᴇ ©2022 ʏᴏᴜʀ ɴᴀᴍᴇ ʜᴇʀᴇ ᴀʟʟ ʀɪɢʜᴛꜱ ᴀʀᴇ ʀᴇꜱᴇʀᴠᴇᴅ"
         },
         "DISABLE_BOT":{
          "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
