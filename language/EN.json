@@ -191,7 +191,7 @@
             "WELCOME_DESC": "It sets the welcome message. If you leave it blank it shows the welcome message.",
             "NOT_SET_WELCOME": "*You don't set the welcome message yet.!*\n**To set:** ```.welcome your welcome message```",
             "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
-            "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME!```",
+            "NEED_WELCOME_TEXT": "*You must write a message to set up the welcome message.*\n*Example:* ```.welcome WELCOME To Whatsetup!```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
             "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
             "GOODBYE_DESC": "Sets the goodbye message. If you leave blank, it show's the goodbye message.",
@@ -249,9 +249,9 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```Bye bye! I am going 🤠```",
+            "KICKME": "```Пока, мне не нравится эта Гребаная Группа```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
-            "NEED_PHOTO": "*Give me a photo!*",
+            "NEED_PHOTO": "*jpeg image thaa nenba!*",
             "PPING": "```Setting profile photo...```",
             "BLOCK_DESC": "Block user.",
             "UNBLOCK_DESC": "Unblock user.",
@@ -267,14 +267,14 @@
         "removebg": {
             "REMOVEBG_DESC": "Removes background of photos.",
             "NEED_PHOTO": "*Give me a photo!*",
-            "NO_API_KEY": "*Set Your remove.bg key in HEROKU*",
+            "NO_API_KEY": "*Remove Bg set akkane Pranav Ser node para*",
             "RBGING": "*Wrong key.*",
             "LIMIT": "*free limit exhausted.Pls wait for renew or set new key.*"
         },
         "scrapers": {
             "TRT": "Translated from {} to {}\n\n{}",
             "TRANSLATE_DESC": "Translate any message.",
-            "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
+            "TRANSLATE_USAGE": ".trt tr it (From Malayalam to Norwegian)",
             "NEED_REPLY": "```Please reply to any message!```",
             "LANG": "Language",
             "FROM": "Translated Language",
@@ -293,21 +293,21 @@
             "SNO_VIDEO": "*Video is greater than 7 mins.*",
             "DOWNLOADING_SONG": "```Downloading your song...```",
             "UPLOADING_SONG": "```Uploading```  ",
-            "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/wa...```",
+            "VIDEO_DESC": "Downloads video from Newpipe.",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://piped.kavin.rocks/yt...```",
             "DOWNLOADING_VIDEO": "```Downloading your video...```",
             "UPLOADING_VIDEO": "```Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
             "NOT_FOUND": "*I couldn't find anything :(*",
-            "SEARCHING": "* 🔎 Searching...*",
+            "SEARCHING": "* 🔎 Fetching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
-            "IMG_DESC": "Searches for related pics on Google.",
+            "IMG_DESC": "Searches for related pics on Bing.",
             "IMG": "Uploading photo ```{}``` number ```{} `..."
         },
         "sticker": {
-            "STICKER_DESC": "Convert img/video to sticker.",
+            "STICKER_DESC": "Convert jpeg/video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
             "MP4_NEED_REPLY": "*Reply to a animated sticker.*",
             "TAKE_DESC": "Change sticker pack info.",
@@ -322,7 +322,7 @@
             "RESET": "```WARN RESET\nUser      : @{}\nRemaining : {}```",
             "NEED_USER": "*Give me a User*",
             "IAADMIN": "*I am not admin*",
-            "ISADMIN": "*Given user is a admin*",
+            "ISADMIN": "*ee nari Admin anu*",
             "WARNING": "```⚠️WARNING⚠️\nUser      : @{}\nReason    : {}\nRemaining : {}```"
         },
         "tagall": {
@@ -344,7 +344,7 @@
             "MOVIE_DESC": "Shows given movie info\n.movie name",
             "NEED_REPLY": "",
             "INVALID": "*Invalid url!*",
-            "NEED_NAME": "*Give me a name*",
+            "NEED_NAME": "*enne ninte appante madil irruthi ano peritte*",
             "NOT_FOUND": "*Not found!*",
             "FORWARD": "*Reply to a message.*",
             "FORWARD_DESC": "Forward replied message.",
@@ -377,8 +377,8 @@
             "SCL_DESC": "Download song from soundCloud."
         },
         "weather": {
-            "WEATHER_DESC": "Shows the weather.\n.weather Malappuram",
-            "NEED_LOCATION": "*Please write a location!*\n*Example:* ```weather Malappuram```",
+            "WEATHER_DESC": "Shows the weather.\n.weather pala ",
+            "NEED_LOCATION": "*Please write a location!*\n*Example:* ```weather pala``",
             "COUNTRY": "Country",
             "LOCATION": "Location",
             "FTEMP": "Feels like",
@@ -397,7 +397,7 @@
             "YTV_NEED_REPLY": "*Reply to a youtube url.*",
             "DOWNLOADING": "```Downloading video...```",
             "SIZE": "Video size is {}, Can't upload video.*",
-            "GOOGLE_DESC": "Google reverse Image Search.",
+            "GOOGLE_DESC": "Bing reverse Image Search.",
             "INEED_REPLY": "*Reply to a image!*",
             "INOT_FOUND": "*Not found!*"
         },
@@ -416,7 +416,7 @@
             "delete": "*Voted deleted*",
             "new": "*Delete current vote, To set new.*",
             "error": "*Not found any vote.*",
-            "syntax": "*Syntax error*"
+            "syntax": "*Error ayi Nenba*"
         }
     }
 }
