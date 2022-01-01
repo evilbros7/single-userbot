@@ -20,7 +20,7 @@ This is a bot based on WhatsAsena written by [Yusuf Usta](https://github.com/Qui
    <a href="https://github.com/Viz-Zer/single-bot/wiki/"><img src="https://img.shields.io/badge/plugins-blue?style=for-the-badge&logo=appveyor%22"/></a>
 
 <!--
-[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://replit.com/@Nightbot2O/baileys-qr)
+[![Run on Repl.it](https://replit.com/badge/github/lyfe00011/whatsapp-bot)](https://telegra.ph/Repl-is-in-Maintainance-01-01)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Viz-Zer/single-bot) -->
 
