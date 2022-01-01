@@ -8,7 +8,7 @@ This is a bot based on WhatsAsena written by [Yusuf Usta](https://github.com/Qui
 
 ## Setup
 
-1. Click [SCAN](https://replit.com/@Nightbot2O/baileys-qr) or [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+1. Click [SCAN](https://telegra.ph/Repl-is-in-Maintainance-01-01) or [SCAN](https://early-pie-production.up.railway.app/qr) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Now click [DEPLOY](https://heroku.com/deploy?template=https://github.com/Viz-Zer/single-bot) and Follow.
